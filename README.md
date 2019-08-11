@@ -12,11 +12,11 @@
     - [Unidad 5: Entrada y salida](#unidad-5-entrada-y-salida)
     - [Examen de primer parcial](#examen-de-primer-parcial)
     - [Unidad 6: Operadores](#unidad-6-operadores)
-    - [Mecanismos de control de Flujo](#mecanismos-de-control-de-flujo)
+    - [Unidad 7: Mecanismos de control de Flujo](#unidad-7-mecanismos-de-control-de-flujo)
     - [Examen de Segundo Parcial](#examen-de-segundo-parcial)
-  - [Funciones](#funciones)
-  - [Tipos de datos estructurados](#tipos-de-datos-estructurados)
-  - [Examen de tercer parcial](#examen-de-tercer-parcial)
+    - [Unidad 9: Funciones](#unidad-9-funciones)
+    - [Unidad 10: Tipos de datos estructurados](#unidad-10-tipos-de-datos-estructurados)
+    - [Examen de tercer parcial](#examen-de-tercer-parcial)
   - [Sitios Importantes](#sitios-importantes)
 
 ## Introducción
@@ -42,65 +42,57 @@ Que se impartirán en el [Instituto Tecnológico del Petróleo y la Energia](htt
 | 25/11 | Examen de Tercer Parcial |
 | 39/11 | Última clase |
 
-
-**Nota**: Se actualizará esta página con las fecha de exámenes
-
 ## Contenido por unidades
 ### Unidad 1: Introducción
-El alumno aprenderá los fundamentos de los algoritmos para la solución de problemas.
-
 Duración: **4 horas**
-1. Introducción
-   1. Definición de algoritmo
-   2. Estructura del algoritmo
-2. Diagrama de flujo
-   1. Características de los diagramas de flujo
-   2. Simbología ANSI de diagramas de flujo
-   3. Ejercicios de diagramas de flujo
+Objetivo: Aprenderá los fundamentos de los algoritmos para la solución de problemas.  
+1. Definición de algoritmo (12/08)
+2. Estructura del algoritmo
+3. Diagrama de Flujo (16/08)
+4. Características de los diagramas de flujo
+5. Simbología ANSI de diagramas de flujo
+6. Ejercicios de diagramas de flujo
 
-### Unidad 2: Fundamentos de Programación
+### Unidad 2: Fundamentos de Programación  
 Duración: **2 horas**
-1. Definición de Programa
+Objetivo: Conocerá los principales paradigmas de programación como herramientas para la solución de problemas 
+1. Definición de Programa (19/08)
 2. Definición de Lenguaje de Programación
 3. Características de los lenguajes de Programación
-4. Traductores
-   1. Intérpretes
-   2. Compiladores
-5. El proceso de Programación
-   1. Programa Fuente
-   2. Programa Objeto
-6. Paradgimas de Programación más comunes
-   1. Programación imperativa
-      1. Programación Estructurada
-      2. Programación Orientada a Objetos
-   2. Programación Declarativa
+4. Intérpretes
+5. Compiladores
+6. El proceso de Programación
+7. Programa Fuente
+8. Programa Objeto
+9. Programación imperativa
+10. Programación Estructurada
+11. Programación Orientada a Objetos
+12. Programación Declarativa
 
 ### Unidad 3: Elementos del Lenguaje de Programación (Python)
-Duración: **2 horas**  
-Fecha programada: 23/08  
+Duración: **2 horas**   
 Objetivo: Conocer las bases del lenguaje de programación  
-1. Elementos del lenguaje de Programación Python
+1. Elementos del lenguaje de Programación Python (23/08)
 2. Estructura de un programa en Python
 3. El proceso de programación en Python
 4. Entorno del lenguaje
    
 ### Unidad 4: Tipos de Datos y Constantes
-Duración: **4 horas**  
-Fecha Programada: 26/08, 30/08  
-1. Tipos de datos básicos
+Duración: **4 horas**   
+1. Tipos de datos básicos (26/08)
 2. Identificadores: variables y constantes
 3. Declaración de variables
 4. Modificadores de tipo
-5. Constantes y literales
+5. Constantes y literales (30/08)
    1. Literales enteras
    2. Literales de punto flotante
    3. Literales de carácter
    4. Literales booleanos
 
 ### Unidad 5: Entrada y salida
-Objetivo: Conocer los flujos de entrada y salida que permiten desarrollar programas que interactuan con el usuario.  
-Fecha Programada: 2/9 y 6/9  
-1. Entrada de datos a consola
+Objetivo: Conocer los flujos de entrada y salida que permiten desarrollar programas que interactuan con el usuario. 
+Duración: **4 horas** 
+1. Entrada de datos a consola (2/09)
 2. Salida de datos a consola
 3. El flujo de salida de error
 4. Ejercicios de entrada salida
@@ -119,7 +111,7 @@ Duración: **6 horas**
 6. Operadores relacionales
 7. Ejercicios (20/09)
 
-### Mecanismos de control de Flujo
+### Unidad 7: Mecanismos de control de Flujo
 Objetivo: Identificar las principales estructuras de control y bifurcación del lenguaje de programación Python  
 Duración: **12 horas**
 1. Sentencia if (27/09, 30/09)
@@ -128,23 +120,24 @@ Duración: **12 horas**
    *** Examen de Segundo Parcial (14/10)
 4. Sentencia do while (18/10, 21/10)
 5. For, foreach, break, continue (25/10, 28/10)
+   
 ### Examen de Segundo Parcial
 Fecha Programada: 14/10
 
-## Funciones
+### Unidad 9: Funciones
 Objetivo: Conocer las bases de la programación modular 
 Duración: **6 horas**
 1. Funciones (1/11)
 2. Paso de parámetros (4/11)
 3. Valor de retorno (8/11)
    
-## Tipos de datos estructurados
+### Unidad 10: Tipos de datos estructurados
 Objetivo: Usar estructuras de datos apropiadas al problema  
 Duración: **6 horas**
 1. Arreglos (11/11, 15/11)
 2. Listas, Diccionarios, Cadenas (22/11)
 
-## Examen de tercer parcial 
+### Examen de tercer parcial 
 Fecha Programa: 25/11
 Retroalimentación: 29/11
 
