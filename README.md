@@ -40,7 +40,7 @@ Que se impartirán en el [Instituto Tecnológico del Petróleo y la Energia](htt
 | 14/10 | Examen de Segundo Parcial |
 | 18/11 | Asueto | 
 | 25/11 | Examen de Tercer Parcial |
-| 39/11 | Última clase |
+| 29/11 | Última clase |
 
 ## Contenido por unidades
 ### Unidad 1: Introducción
