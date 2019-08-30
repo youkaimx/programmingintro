@@ -1,6 +1,0 @@
-print("print() puede tomar como argumento una cadena encerrada")
-print("\"entre comillas\"")
-print("hola",end="")
-print(" ¿como estás?")
-nombre = input("Oprima cualquier tecla para continuar...")
-print(" el usuario se llama "+nombre)
