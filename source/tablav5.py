@@ -5,7 +5,7 @@ while respuesta == "si":
     tecleado = input("Tabla de que número quieres que imprima?")
     n = int(tecleado)
     factor = 1
-    while factor <= 10   :
+    while factor <= 10:
         print(n,"x",factor,"=",n*factor)
         factor = factor + 1
     respuesta = input("Quieres seguir? si para continuar: ")
