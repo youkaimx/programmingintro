@@ -1,13 +1,13 @@
 # Computación aplicada a la Ingeniería / Computacion para Ingenieros
 
-- [Computación aplicada a la Ingeniería / Computacion para Ingenieros](#computación-aplicada-a-la-ingeniería--computacion-para-ingenieros)
-  - [Introducción](#introducción)
+- [Computación aplicada a la Ingeniería / Computacion para Ingenieros](#computaci%c3%b3n-aplicada-a-la-ingenier%c3%ada--computacion-para-ingenieros)
+  - [Introducción](#introducci%c3%b3n)
   - [Horarios](#horarios)
   - [Fechas Importantes](#fechas-importantes)
   - [Contenido por unidades](#contenido-por-unidades)
-    - [Unidad 1: Introducción](#unidad-1-introducción)
-    - [Unidad 2: Fundamentos de Programación](#unidad-2-fundamentos-de-programación)
-    - [Unidad 3: Elementos del Lenguaje de Programación (Python)](#unidad-3-elementos-del-lenguaje-de-programación-python)
+    - [Unidad 1: Introducción](#unidad-1-introducci%c3%b3n)
+    - [Unidad 2: Fundamentos de Programación](#unidad-2-fundamentos-de-programaci%c3%b3n)
+    - [Unidad 3: Elementos del Lenguaje de Programación (Python)](#unidad-3-elementos-del-lenguaje-de-programaci%c3%b3n-python)
     - [Unidad 4: Tipos de Datos y Constantes](#unidad-4-tipos-de-datos-y-constantes)
     - [Unidad 5: Entrada y salida](#unidad-5-entrada-y-salida)
     - [Examen de primer parcial](#examen-de-primer-parcial)
@@ -115,11 +115,11 @@ Duración: **6 horas**
 Objetivo: Identificar las principales estructuras de control y bifurcación del lenguaje de programación Python  
 Duración: **12 horas**
 1. Sentencia if (27/09, 30/09)
-2. Sentencia switch (4/10, 7/10)
+2. Sentencia if elif else (4/10, 7/10)
 3. Sentencia while (11/10)
    *** Examen de Segundo Parcial (14/10)
-4. Sentencia do while (18/10, 21/10)
-5. For, foreach, break, continue (25/10, 28/10)
+4. Sentencia for in (18/10, 21/10)
+5. Sentencias break, continue (25/10, 28/10)
    
 ### Examen de Segundo Parcial
 Fecha Programada: 14/10
