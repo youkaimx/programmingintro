@@ -117,11 +117,11 @@ Duración: **12 horas**
 1. Sentencia if (27/09, 30/09)
 2. Sentencia if elif else (4/10, 7/10)
 3. Sentencia while (11/10)
-   *** Examen de Segundo Parcial (14/10)
-4. Sentencia for in (18/10, 21/10)
-5. Sentencias break, continue (25/10, 28/10)
+4. **Examen de Segundo Parcial (14/10)**
+5. Sentencia for in (18/10, 21/10)
+6. Sentencias break, continue (25/10, 28/10)
    
-### Examen de Segundo Parcial
+### Examen de Segundo Parcial   
 Fecha Programada: 14/10
 
 ### Unidad 9: Funciones
@@ -134,8 +134,9 @@ Duración: **6 horas**
 ### Unidad 10: Tipos de datos estructurados
 Objetivo: Usar estructuras de datos apropiadas al problema  
 Duración: **6 horas**
-1. Arreglos (11/11, 15/11)
-2. Listas, Diccionarios, Cadenas (22/11)
+1. Cadenas (11/11)
+2. Listas  (15/11)
+2. Diccionarios  (22/11)
 
 ### Examen de tercer parcial 
 Fecha Programa: 25/11
