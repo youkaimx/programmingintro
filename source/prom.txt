@@ -1,0 +1,5 @@
+persona1,matricula1,67,82,90,79
+persona2,matricula2,100,92,95,100
+persona3,matricula3,67,89,92,88
+persona4,matricula4,76,100,80,9
+persona5,matricula5,69,74,75,64
