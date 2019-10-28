@@ -1,3 +1,5 @@
+import string 
+
 def reverse(cadena):
     nueva = ""
     for i in range(len(cadena)-1, -1, -1):
@@ -7,7 +9,7 @@ def reverse(cadena):
 def deleteSpaces(cadena):
     nueva = ""
     for i in range(0, len(cadena)):
-        if cadena[i] != ' ':
+        if cadena[i] not in string.punctuation and not cadena[i].isspace():
             nueva = nueva + cadena[i]
     return nueva
 
@@ -21,3 +23,4 @@ def isPalindrome(cadena):
 print(isPalindrome("ana"))
 print(isPalindrome("anitalavalatina"))
 print(isPalindrome("miguel"))
+print(deleteSpaces("Anita .lava + la       tina?!"))
