@@ -14,12 +14,14 @@ def deleteSpaces(cadena):
     return nueva
 
 def isPalindrome(cadena):
-    revertida = reverse(cadena)
-    if cadena == revertida:
+ revertida = reverse(cadena)
+    revertida = deleteSpaces(revertida)
+    cadena = deleteSpaces(cadena)
+    if cadena.lower() == revertida.lower():
         return True
     else:
         return False
-
+        
 print(isPalindrome("ana"))
 print(isPalindrome("anitalavalatina"))
 print(isPalindrome("miguel"))
