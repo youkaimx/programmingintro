@@ -1,9 +1,8 @@
 import sqlite3
-db_path = "/Users/rvaldez/Programming/python/programmingintro/source/geologia.db"
-
+db_path = "geologia.db"
 database = sqlite3.connect(db_path) 
 cursor = database.cursor()
-data = ('aguamarina', 'Be3Al2Si6O18::Fe', 'El aguamarina es la variedad de color azul verdoso pálido del berilo al igual que la esmeralda. Se trata de una gema muy apreciada en joyería por su dureza, permitiendo una gran diversidad de cortes. Su color y brillo recuerdan al agua del mar.')
+data = ('esmeralda', 'Be3Al2(SiO3)6', 'Es una piedra preciosa muy valorada. Ya en la antigüedad las piedras de color verde, como la malaquita, y la variscita fueron muy apreciadas. La esmeralda une a su color verde especialmente intenso la propiedad de ser transparente o al menos traslúcida, y su mayor brillo al ser pulida. Su nombre, posiblemente persa, significa piedra verde y su tonalidad ha dado nombre al color verde esmeralda')
 sql_statement = "insert into piedraspreciosas(nombre,composicion,descripcion) values (?,?,?)"
 cursor.execute(sql_statement, data)
 database.commit()
