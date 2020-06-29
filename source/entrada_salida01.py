@@ -8,4 +8,4 @@ numero = input("¿Cuantos años tienes?: ")
 en4años = int(numero) + 4
 # print() espera una cadena. El operador + concatena cadenas
 # str convierte su argumento a cadena
-print("Al terminar tu carrera vas a tener "+str(en4años)+ " años")
+print("Al terminar tu carrera vas a tener ", en4años, " años")
