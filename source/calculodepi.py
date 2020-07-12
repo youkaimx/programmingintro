@@ -2,12 +2,15 @@
 #  pi = 4 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11...
 términos = int(input("Cuantos términos de la serie? "))
 términoActual = 1
-sumatoria=0
-signo=-1
-denominador=3
-while términoActual < términos:
-    sumatoria = sumatoria + signo*4/denominador
+pi=0
+signo=1
+denominador=1
+while términoActual <= términos:
+    término =  signo*4/denominador
+    signo_para_imprimir = "" if signo > 0 else "-"
+    print("Añadiendo:", signo_para_imprimir, " 4/",denominador )
+    pi = pi +  término
     denominador = denominador + 2
     signo = signo * -1
     términoActual = términoActual + 1
-print(4+sumatoria)
+print("El calor de pi calculado por sumatoria de ", términos, " términos es ", pi)

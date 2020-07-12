@@ -1,0 +1,10 @@
+numero_tabla_empieza = int(input("Tabla a empezar? "))
+numero_tabla_termina = int(input("Tabla a terminar? "))
+limite = 10
+contador = 1
+while contador <= limite:
+    resultados = contador * numero_tabla_empieza
+    print(resultados, end= "\t")
+    while numero_tabla_empieza <= numero_tabla_termina:     
+        numero_tabla_empieza = numero_tabla_empieza + 1
+    contador = contador + 1
