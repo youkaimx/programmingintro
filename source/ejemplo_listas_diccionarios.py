@@ -6,7 +6,7 @@ def imprimir_lista(lista):
         print() # Comenzar una nueva linea despues de imprimir el diccionario
 
 lista_super = [
-               { "producto": "trix", "cantidad": 3},
+               { "producto": "trix", "cantidad": 3 },
                { "producto": "pan bimbo", "cantidad": 1},
                { "producto": "skippy", "cantidad": 1},
                { "producto": "mermelada de fresa", "cantidad": 1},

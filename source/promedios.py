@@ -1,4 +1,4 @@
-archivo = open("/home/rvaldez/Downloads/calificaciones.csv")
+archivo = open("/home/rvaldez/programmingintro/source/calificaciones.csv")
 alumnos = 0
 suma_promedios = 0
 for alumno in archivo:
@@ -10,7 +10,7 @@ for alumno in archivo:
     suma_calificaciones = 0
     for calificacion in range(2,9):
         print(datos_alumno[calificacion], end=" ")
-        suma_calificaciones = suma_calificaciones + int(datos_alumno[calificacion])
+        suma_calificaciones = suma_calificaciones + float(datos_alumno[calificacion])
     promedio = suma_calificaciones / 7
     suma_promedios = suma_promedios + promedio
     print("Promedio: %.2f"%promedio)

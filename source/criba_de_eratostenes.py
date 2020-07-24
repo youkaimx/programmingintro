@@ -10,8 +10,10 @@ def imprimePrimos(lista):
         if(lista[i] == True):
             print(i, end=" ")
 
+# lista [ False, False, True, True, True, True, True ]
+#        lista[0], lista[1], lista[2], lista[3], lista[4], lista[5], lista[6]
 criba = []
-limite_superior = 101
+limite_superior = 21
 inicializarLista(criba, limite_superior)
 print(criba)
 for elemento_actual in range(2,limite_superior):

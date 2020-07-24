@@ -2,6 +2,7 @@
 
 entrada = input("Cuantos elementos? ")
 elementos = int(entrada)
+
 n1 = 1
 n2 = 1
 
